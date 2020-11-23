@@ -3,6 +3,7 @@
   "version": "2.1.2",
   "description": "Spoqa Han Sans",
   "homepage": "https://spoqa.github.io/spoqa-han-sans/",
+  "main": "css/SpoqaHanSans-kr.css",
   "repository": {
     "type": "git",
     "url": "https://github.com/spoqa/spoqa-han-sans.git"
